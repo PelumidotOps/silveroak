@@ -1,7 +1,6 @@
 # Silveroak Law Firm
 
 Standalone copy of the existing live website, separated from Deborah's portfolio. HTML, inline CSS/JavaScript, and local images were recovered from the published website because the supplied GitHub repository does not contain this project's source.
-
 ## Run locally
 
 Install Node.js 22 or newer. No npm dependencies are required.
